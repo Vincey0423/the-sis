@@ -1,0 +1,6 @@
+
+
+
+C:/Users/radan/.conda/envs/pytorch_env/python.exe "c:/importanteng itlog/Coding Files/the sis/Speed Program/speed.py" --source_video_path="C:\importanteng itlog\Coding Files\the sis\test.MP4"
+
+
